@@ -7,7 +7,7 @@ const oldProducts = [
     category: "Bracelets",
     image: "/products/product1.jpeg",
     name: "Bracelet",
-    price: 199,
+    price: 149,
   },
   {
     id: 2,
